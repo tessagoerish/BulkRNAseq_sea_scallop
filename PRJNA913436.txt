@@ -1,0 +1,1 @@
+### Data accessed from NCBI using Accession number PRJNA913436. There are 201 samples that were sequenced by Bulk-RNAseq and were aligned to the 16S rDNA gene. 
