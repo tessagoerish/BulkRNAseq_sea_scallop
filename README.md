@@ -3,7 +3,7 @@
 
 This repository contains coursework and analyses focused on processing raw DNA sequencing data through a complete bioinformatics workflow—from quality control to statistical analysis and scientific interpretation.
 
-The course emphasizes hands-on experience with real sequencing data and introduces key bioinformatics tools and methods used in microbial ecology and genetics research.
+The course emphasized hands-on experience with real sequencing data and introduces key bioinformatics tools and methods used in microbial ecology and genetics research.
 
 ---
 
